@@ -1,0 +1,60 @@
+E:\ASP.NET\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\ASP.NET\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\ASP.NET\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.xml
+E:\ASP.NET\LibraryManagement\LibraryManagement\bin\Debug\MyTxtBox.dll
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form2.resources
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Resources.resources
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.vbproj.GenerateResource.Cache
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.xml
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form3.resources
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form4.resources
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form5.resources
+E:\ASP.NET\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form6.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.xml
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+E:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+E:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.xml
+E:\LibraryManagement\LibraryManagement\bin\Debug\MyTxtBox.dll
+E:\LibraryManagement\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form2.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form3.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form4.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form5.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form6.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Resources.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.vbproj.GenerateResource.Cache
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form7.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form8.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form9.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form10.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form11.resources
+E:\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form12.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.xml
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.xml
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\bin\Debug\MyTxtBox.dll
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form10.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form11.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form12.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form2.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form3.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form4.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form5.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form6.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form7.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form8.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form9.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Resources.resources
+D:\IMAGES\A-KAUSHAL\BCA-SEM 1 & 2 & 3 & 4 & 5\BCA-SEM 1 & 2 & 3 & 4 & 5\SEM-5 BCA COLLEGE\VB_NET_SEM_5\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.vbproj.GenerateResource.Cache
